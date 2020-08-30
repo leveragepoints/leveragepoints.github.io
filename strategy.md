@@ -27,7 +27,7 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 **7 Powers: The Foundations of Business Strategy.**
 
-[Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](invest like the best 7 powers)
+[Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](http://investorfieldguide.com/helmer/)
 
 ![7 Powers](/assets/images/7Powers.jpg)
 
