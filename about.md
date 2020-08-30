@@ -1,29 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01c8b380-68c8-42dc-b0a7-65298a58243a/_71A3620-Edit.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01c8b380-68c8-42dc-b0a7-65298a58243a/_71A3620-Edit.jpeg)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+👋 Hi. I'm Paulo Cunha. I live in New York and work at [SeatGeek](https://seatgeek.com)
 
-There are currently two themes built on Poole:
+Prior to joining SeatGeek, I worked at [Expedia Group](https://www.expediagroup.com), [BCG](https://www.bcg.com), [ING](https://www.ing.com/Home.htm), and [ECS Capital](https://www.ecs.pt/index.php/en/). I started my career in academia at [Universidade Catolica Portuguesa](http://www.porto.ucp.pt/en/catolica-porto-business-school), [Tilburg University](https://www.tilburguniversity.edu/research/economics-and-management/graduate-school), and [Nova School of Business & Economics](https://www2.novasbe.unl.pt/en/).
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+I've lived and worked in Porto, Lisbon, Amsterdam, Tilburg, London, Windsor, Dallas, and Houston.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I love traveling and movies.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Elsewhere: [LinkedIn](https://www.linkedin.com/in/paulovcunha/), [Twitter](https://www.notion.so/unevenlydistributed/About-2abcd01ca6444805b9417e16aec86a33#), [Instagram](https://www.instagram.com/paul0cunha/)
