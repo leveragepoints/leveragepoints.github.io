@@ -29,7 +29,7 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 [Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](invest like the best 7 powers)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/630d3a88-3b7d-4a9e-a324-f249c8eaf7c7/7-Powers.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/630d3a88-3b7d-4a9e-a324-f249c8eaf7c7/7-Powers.jpg)
+![7 Powers](/assets/images/7Powers.png)
 
 **Aggregation Theory.**
 
@@ -39,8 +39,10 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 > This has fundamentally changed the plane of competition: no longer do distributors compete based upon exclusive supplier relationships, with consumers/users an afterthought. Instead, suppliers can be commoditized leaving consumers/users as a first order priority. By extension, this means that the most important factor determining success is the user experience: the best distributors/aggregators/market-makers win by providing the best experience, which earns them the most consumers/users, which attracts the most suppliers, which enhances the user experience in a virtuous cycle.
 
-![https://stratechery.com/wp-content/uploads/2015/07/Screen-Shot-2018-03-27-at-12.47.09-PM-1024x440.png](https://stratechery.com/wp-content/uploads/2015/07/Screen-Shot-2018-03-27-at-12.47.09-PM-1024x440.png)
+![Aggregation Theory](/assets/images/AggregationTheory.png)
 
+
+&nbsp;
 ## 03. Identifying Levers & Problem Solving
 
 **Valuation: Measuring and Managing the Value of Companies.**
