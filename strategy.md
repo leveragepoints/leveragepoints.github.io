@@ -39,7 +39,7 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 > This has fundamentally changed the plane of competition: no longer do distributors compete based upon exclusive supplier relationships, with consumers/users an afterthought. Instead, suppliers can be commoditized leaving consumers/users as a first order priority. By extension, this means that the most important factor determining success is the user experience: the best distributors/aggregators/market-makers win by providing the best experience, which earns them the most consumers/users, which attracts the most suppliers, which enhances the user experience in a virtuous cycle.
 
-![Aggregation Theory](/assets/images/AggregationTheory.png)
+![Aggregation Theory](/assets/images/AggregationTheory.jpeg)
 
 
 &nbsp;
