@@ -1,5 +1,6 @@
 ---
 layout: page
+Title: 
 ---
 
 ## I use this site as a repository for notes, frameworks, articles, books, videos and podcasts that I find valuable.
