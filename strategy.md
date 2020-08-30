@@ -21,11 +21,10 @@ This is one of the best articulations I've come across of what the process of fo
 Being able to drive execution, through focus and prioritization, is a marker for effective leadership. In this article, Rose Hollister and Michael D. Watkins share a step-by-step process to manage initiative overload. 
 
 > If “the essence of strategy is choosing what not to do,” as Michael Porter famously said in a seminal HBR article, then the essence of execution is truly not doing it. That sounds simple, but it’s surprisingly hard for organizations to kill existing initiatives, even when they don’t align with new strategies. Instead, leaders keep layering on initiatives, which can lead to severe overload at levels below the executive team.
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 ## 02. Frameworks
 
 **7 Powers: The Foundations of Business Strategy.**
