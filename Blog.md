@@ -3,6 +3,8 @@ layout: default
 title: Blog
 ---
 
+text
+
 
 <!-- Delta: This is the original content of index.html and can be used as a blog -->
 
