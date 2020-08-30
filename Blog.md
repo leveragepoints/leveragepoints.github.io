@@ -3,10 +3,17 @@ layout: default
 title: Blog
 ---
 
-text
+
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+{% endfor %}
+</ul>
+</section>
 
 
-<!-- Delta: This is the original content of index.html and can be used as a blog -->
+<!-- Delta: This is the original content of index.html and can be used as a blog 
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -36,3 +43,5 @@ text
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+-->
