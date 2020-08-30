@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog
 ---
 
+<!-- Delta: 
 # Blog
 
 <section class="posts">
@@ -14,8 +15,10 @@ permalink: /blog
 </ul>
 </section>
 
+-->
 
-<!-- Delta: This is the original content of index.html and can be used as a blog 
+
+<!-- Delta: This is the original content of index.html and can be used as a blog -->
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -46,4 +49,4 @@ permalink: /blog
   {% endif %}
 </div>
 
--->
+
