@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Management & Career
-permalink: /management
+permalink: /management/
 ---
 
 ## 01. Operating as a Manager

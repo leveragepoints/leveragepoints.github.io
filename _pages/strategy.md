@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Strategy
-permalink: /strategy
+permalink: /strategy/
 ---
 
 ## 01. Defining a Strategy

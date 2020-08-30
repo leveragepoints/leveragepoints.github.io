@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Metrics, Analytics & User Research
-permalink: /analytics
+permalink: /analytics/
 ---
 
 ## 01. Metrics

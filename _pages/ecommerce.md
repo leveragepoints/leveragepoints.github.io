@@ -2,7 +2,7 @@
 ---
 layout: page
 title: E-commerce
-permalink: /ecommerce
+permalink: /ecommerce/
 ---
 
 ## 01. Trends

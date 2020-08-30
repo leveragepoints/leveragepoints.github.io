@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Growth
-permalink: /growth
+permalink: /growth/
 ---
 
 ## 01. Frameworks

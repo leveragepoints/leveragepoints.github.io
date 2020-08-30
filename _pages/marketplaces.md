@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Marketplaces
-permalink: /marketplaces
+permalink: /marketplaces/
 ---
 
 ## 01. Frameworks

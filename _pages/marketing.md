@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Marketing
-permalink: /marketing
+permalink: /marketing/
 ---
 
 ## 01. Frameworks

@@ -2,7 +2,7 @@
 ---
 layout: page
 title: SaaS
-permalink: /saas
+permalink: /saas/
 ---
 
 ## 01. Frameworks

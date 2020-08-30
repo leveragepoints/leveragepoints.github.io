@@ -2,7 +2,7 @@
 ---
 layout: page
 title: User Engagement & Retention
-permalink: /userengagement
+permalink: /userengagement/
 ---
 
 ## 01. Frameworks

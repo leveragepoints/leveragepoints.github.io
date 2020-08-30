@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Product & Design
-permalink: /product
+permalink: /product/
 ---
 
 **A Minimum Viable Product Is Not a Product, It’s a Process.**
