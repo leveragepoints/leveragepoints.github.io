@@ -29,7 +29,8 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 [Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](invest like the best 7 powers)
 
-![7 Powers](/assets/7Powers.png)
+![7 Powers]({{ site.url }}/public/assets/7Powers.png)
+
 
 **Aggregation Theory.**
 
