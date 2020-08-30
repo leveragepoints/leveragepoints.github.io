@@ -22,6 +22,10 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 > If “the essence of strategy is choosing what not to do,” as Michael Porter famously said in a seminal HBR article, then the essence of execution is truly not doing it. That sounds simple, but it’s surprisingly hard for organizations to kill existing initiatives, even when they don’t align with new strategies. Instead, leaders keep layering on initiatives, which can lead to severe overload at levels below the executive team.
 
+
+
+
+
 ## 02. Frameworks
 
 **7 Powers: The Foundations of Business Strategy.**
