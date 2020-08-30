@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Leverage Points
+#tagline: The Jekyll Butler
+url: https://leveragepoints.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,7 +33,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Paulo Cunha
   url: https://twitter.com/mdo
   email: markdotto@gmail.com
 
