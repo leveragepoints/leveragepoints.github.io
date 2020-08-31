@@ -27,7 +27,7 @@ permalink: /marketing/
 
 **The Elements of Value.**
 
-[Article](https://hbr.org/2016/09/the-elements-of-value) | Case studies: [Retail](https://www.bain.com/contentassets/8824d432de2441378bfc2943ad3f4d40/bain_brief-delivering_what_consumers_really_value.pdf), [Banking](https://www.bain.com/contentassets/7c3b1535c4444f7b8a078c577078a705/bain_report-in_search_of_customers_who_love_their_bank-2018.pdf)
+[Article](https://hbr.org/2016/09/the-elements-of-value), Case studies: [Retail](https://www.bain.com/contentassets/8824d432de2441378bfc2943ad3f4d40/bain_brief-delivering_what_consumers_really_value.pdf), [Banking](https://www.bain.com/contentassets/7c3b1535c4444f7b8a078c577078a705/bain_report-in_search_of_customers_who_love_their_bank-2018.pdf)
 
 > The amount and nature of value in a particular product or service always lie in the eye of the beholder, of course. Yet universal building blocks of value do exist, creating opportunities for companies to improve their performance in current markets or break into new ones. A rigorous model of consumer value allows a company to come up with new combinations of value that its products and services could deliver. The right combinations, our analysis shows, pay off in stronger customer loyalty, greater consumer willingness to try a particular brand, and sustained revenue growth.
 
@@ -60,7 +60,7 @@ permalink: /marketing/
 
 **Netflix: Engineering to Improve Marketing Effectiveness.**
 
-Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-marketing-effectiveness-part-1-a6dd5d02bab7) | [Part 2](https://netflixtechblog.com/https-medium-com-netflixtechblog-engineering-to-improve-marketing-effectiveness-part-2-7dd933974f5e) | [Part 3](https://netflixtechblog.com/engineering-to-scale-paid-media-campaigns-84ba018fb3fa)
+Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-marketing-effectiveness-part-1-a6dd5d02bab7), [Part 2](https://netflixtechblog.com/https-medium-com-netflixtechblog-engineering-to-improve-marketing-effectiveness-part-2-7dd933974f5e), [Part 3](https://netflixtechblog.com/engineering-to-scale-paid-media-campaigns-84ba018fb3fa)
 
 **Shopify: The Evolution of Kit: Automating Marketing Using Machine Learning.**
 
