@@ -8,7 +8,7 @@ permalink: /marketplaces/
 
 **The Hierarchy of Marketplaces.**
 
-Article series: [Part 1](https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e) | [Part 2](https://medium.com/@sarahtavel/hierarchy-of-marketplaces-level-2-f1c44ed4a39) | [Part 3](https://medium.com/@sarahtavel/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
+Article series: [Part 1](https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e), [Part 2](https://medium.com/@sarahtavel/hierarchy-of-marketplaces-level-2-f1c44ed4a39), [Part 3](https://medium.com/@sarahtavel/hierarchy-of-marketplaces-level-3-1d1a5772ea08)
 
 Sarah Tavel, a General Partner at Benchmark, published a series of articles examining the dynamics of building a successful and enduring marketplace.
 

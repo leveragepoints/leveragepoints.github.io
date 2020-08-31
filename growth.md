@@ -8,7 +8,7 @@ permalink: /growth/
 
 **The Basics of Growth — User Acquisition, Engagement & Retention**
 
-Podcast series (+ transcript): [Part 1](https://a16z.com/2018/08/08/growth-user-acquisition/) | [Part 2](https://a16z.com/2018/08/09/growth-engagement-retention/)
+Podcast series (+ transcript): [Part 1](https://a16z.com/2018/08/08/growth-user-acquisition/), [Part 2](https://a16z.com/2018/08/09/growth-engagement-retention/)
 
 Comprehensive overview of the key concepts and dynamics to consider when crafting and executing a growth strategy.
 
