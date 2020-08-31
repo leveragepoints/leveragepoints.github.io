@@ -14,6 +14,7 @@ permalink: /marketing/
 
 [Article](https://faculty.fuqua.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%203/Keller.pdf)
 
+&nbsp;
 ## 02. Value Proposition Design
 
 **Value Proposition Design: How to Create Products and Services Customers Want.**
@@ -30,7 +31,7 @@ permalink: /marketing/
 
 > The amount and nature of value in a particular product or service always lie in the eye of the beholder, of course. Yet universal building blocks of value do exist, creating opportunities for companies to improve their performance in current markets or break into new ones. A rigorous model of consumer value allows a company to come up with new combinations of value that its products and services could deliver. The right combinations, our analysis shows, pay off in stronger customer loyalty, greater consumer willingness to try a particular brand, and sustained revenue growth.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a36b378-18a4-4050-b6b4-b5c937c56c72/ElementsofValue.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a36b378-18a4-4050-b6b4-b5c937c56c72/ElementsofValue.png)
+![Elements of Value](/assets/images/ElementsofValue.png)
 
 **Why Trust Matters.**
 
@@ -38,6 +39,7 @@ permalink: /marketing/
 
 > [...] we think trust can be understood and operationalized as a strategy, both in offensive and defensive modes. In offense, a startup identifies a trust gap left by a competitor and uses that as a wedge into a market. In defense, a startup makes intentional product and messaging decisions to uphold its promise to users and foster commitment and loyalty.
 
+&nbsp;
 ## 03. Marketing Automation
 
 **The Problems With Martech, and Why Martech is Actually for Engineers.**
@@ -68,6 +70,7 @@ Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-mark
 
 [E-Book](https://automatetheboringstuff.com/2e/chapter0/)
 
+&nbsp;
 ## 04. Search Engine Optimization
 
 **The SEO Framework That Helped Propel Pinterest To Over An Estimated 72M Users.**
@@ -78,6 +81,7 @@ Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-mark
 
 [Article](https://foundationinc.co/lab/canva-seo)
 
+&nbsp;
 ## 05. Consumer Behavior
 
 **Google: Study reveals the complexity of modern consumer paths to purchase and how brands can make inroads.**

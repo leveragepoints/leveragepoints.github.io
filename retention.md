@@ -6,56 +6,54 @@ permalink: /retention/
 
 ## 01. Frameworks
 
-**The Basics of Growth — User Acquisition, Engagement & Retention**
+**The Adjacent User Theory.**
 
-Podcast series (+ transcript): [Part 1](https://a16z.com/2018/08/08/growth-user-acquisition/) | [Part 2](https://a16z.com/2018/08/09/growth-engagement-retention/)
+[Article](https://andrewchen.co/the-adjacent-user-theory/)
 
-Comprehensive overview of the key concepts and dynamics to consider when crafting and executing a growth strategy.
+> When I joined Instagram in 2016, the product had over 400 million users, but the growth rate had slowed. We were growing linearly, not exponentially. [...] Over the next 3 years, the growth team and I discovered why Instagram had slowed, developed a methodology to diagnose our issues, and solved a series of problems that reignited growth and helped us get to over a billion users by the time I left.
 
-**Growth for Startups.**
+> Our success was anchored on what I now call *The Adjacent User Theory*. *The Adjacent Users* are aware of a product and possibly tried using the it, but are not able to successfully become an engaged user. This is typically because the current product positioning or experience has too many barriers to adoption for them.
 
-[Video](https://youtu.be/6lY9CYIY4pQ)
+**Hierarchy of Engagement, Expanded.**
 
-**Growth Hacking for Startups.**
+[Article](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-expanded-648329d60804)
 
-[Slide deck](https://andrewchen.co/investor-metrics-deck/)
+**The Customer Centricity Playbook.**
 
-**Growth Loops are the New Funnels.**
+[Book](https://wsp.wharton.upenn.edu/book/customer-centricity-playbook/), [Excerpt](https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2019/01/Customer-Centricity-Playbook-Excerpt-2019.pdf), [Video](https://youtu.be/0iLQCNYdNb4)
 
-[Article](https://www.reforge.com/blog/growth-loops)
+&nbsp;
+## 02. Metrics
 
-A year ago, I came across an article that introduces the concept of growth loops. Reading it shifted how I think about growth.
+**Startup Lab Workshop: Cohort analysis.**
 
-> The biggest thing we've learned is that the funnel framework is too micro of a view in order to answer “How does your product grow?” It helps explain a specific step within a Growth Loop, but misses the larger picture of the loop itself.
+[Video](https://youtu.be/NyhVdGmnh0I), [Slide deck](https://docs.google.com/presentation/d/1oWSKNZgtXCrc1dVEXhyzeJtX4AmBGQPGZi-u20BA5sA/edit#slide=id.p)
 
-**Phil Libin  shares his state machine that answers all growth questions.**
+**DAU/MAU is an Important Metric to Measure Engagement, but Here’s Where it Fails.**
 
-[Podcast](https://thisweekinstartups.com/e994-all-turtles-ceo-phil-libin-shares-his-state-machine-that-answers-all-growth-questions-future-of-early-stage-vc-w-pete-flint-nfx-rebecca-lynn-canvas-ventures-dave-samuel-freestyle-capital/)
+[Article](https://andrewchen.co/dau-mau-is-an-important-metric-but-heres-where-it-fails/)
 
-## 02. Operating Model
+**The Power User Curve: The Best Way to Understand Your Most Engaged Users.**
 
-**Growth Guide: How to Set Up, Staff and Scale a Growth Program.**
+[Article](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
-[Article](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team)
+> Power users drive some of the most successful companies — people who love their product, are highly engaged, and contribute a ton of value to the network. In ecommerce marketplaces it’s power sellers, in ridesharing platforms it’s power riders, and in social networks it’s influencers.
 
-**How to build a growth team – lessons from Uber, Hubspot, and Others.**
+> All companies want more power users, but you need to measure them before you can find (and retain) them. [...]
 
-[Article](https://andrewchen.co/how-to-build-a-growth-team/)
+> Since companies need a richer and more nuanced way to understand user engagement, we’re going to introduce what we’ll call the “Power User Curve” [...].
 
-**Growth Stacks.**
+**The Loyalty Economy.**
 
-[Article](https://news.greylock.com/growth-stacks-a-quantitative-look-into-the-tools-growth-teams-use-3829b22f8aa8)
+[Article series](https://hbr.org/2020/01/the-loyalty-economy)
 
-## 03. Case Studies
+&nbsp;
+## 03. **Data Points**
 
-**Why Figma Wins.**
+**Q: What do you consider GOOD and GREAT retention?**
 
-[Article](https://kwokchain.com/2020/06/19/why-figma-wins/)
+[Article](https://www.lennyrachitsky.com/p/what-is-good-retention-issue-29)
 
-Kevin Kwok applies the concept of loops to deconstruct how Figma successfully scaled.
+Casey Winters and Lenny Rachitsky published user retention and revenue retention benchmarks for consumer and SaaS businesses. 
 
-> Companies are a sequencing of loops. While it’s possible to stumble into an initial core loop that works, the companies that are successful in the long term are the ones that can repeatedly find the next loop.
-
-**How Pinterest Supercharged its Growth Team With Experiment Idea Review.**
-
-[Article](https://medium.com/pinterest-engineering/how-pinterest-supercharged-its-growth-team-with-experiment-idea-review-fd6571a02fb8)
+![Retention benchmarks](/assets/images/RetentionBenchmarks.png)

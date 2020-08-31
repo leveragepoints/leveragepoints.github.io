@@ -42,12 +42,14 @@ Great conversation between Patrick OShaughnessy and Ben Thompson on platform
 
 [Article](https://a16z.com/2018/11/27/services-marketplaces-service-economy-evolution-whats-next/)
 
+&nbsp;
 ## 02. Operating Model
 
 **Centralization vs. Decentralization in Marketplaces and Scaling Companies.**
 
 [Article](https://caseyaccidental.com/centralization-decentralization-marketplaces-and-scaling-companies/)
 
+&nbsp;
 ## 03. Tactics
 
 **28 ways to grow supply in a marketplace.**
@@ -58,6 +60,7 @@ Great conversation between Patrick OShaughnessy and Ben Thompson on platform
 
 [Article](https://caseyaccidental.com/low-frequency-marketplaces/)
 
+&nbsp;
 ## 04. Metrics
 
 **All Markets Are Not Created Equal: 10 Factors To Consider When Evaluating Digital Marketplaces.**
@@ -80,6 +83,7 @@ Great conversation between Patrick OShaughnessy and Ben Thompson on platform
 
 [Article](https://techcrunch.com/2017/07/11/marketplace-liquidity/)
 
+&nbsp;
 ## 05. Data Points
 
 **The a16z Marketplace 100.**

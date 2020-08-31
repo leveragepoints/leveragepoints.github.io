@@ -24,6 +24,7 @@ In this lecture, Keith Rabois shares his perspective on how to be an effective
 
 [Article](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/introduction/)
 
+&nbsp;
 ## 02. Communication
 
 **Ask Better Questions.**
@@ -50,6 +51,7 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 > Managers in Western corporations have received a lifetime of training in being forceful, articulate "advocates" and "problem solvers." They know how to present and argue strongly for their views. But as people rise in the organization, they are forced to deal with more complex and interdependent issues where no one individual "knows the answer, and where the only viable option is for groups of informed and committed individuals to think together to arrive at new insights. At this point, they need to learn to skillfully balance advocacy with inquiry
 
+&nbsp;
 ## 03. Managing Teams
 
 **Google Guide: Understand Team Effectiveness.**
@@ -60,12 +62,14 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 > Following the success of Google’s Project Oxygen research where the People Analytics team studied what makes a great manager, Google researchers applied a similar method to discover the secrets of effective teams at Google. Code-named Project Aristotle - a tribute to Aristotle’s quote, "the whole is greater than the sum of its parts" (as the Google researchers believed employees can do more working together than alone) - the goal was to answer the question: “What makes a team effective at Google?”
 
+&nbsp;
 ## 04. Managing People
 
 **“A Players” or “A Positions”?: The Strategic Logic of Workforce Management.**
 
 [Article](https://hbr.org/2005/12/a-players-or-a-positions-the-strategic-logic-of-workforce-management)
 
+&nbsp;
 ## 05. Driving Execution
 
 **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses.**
@@ -80,6 +84,7 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 [Article](http://joelcalifa.com/work/digitalocean-design-leadership/)
 
+&nbsp;
 ## 06. Productivity
 
 **Maker’s Schedule, Manager’s Schedule.**
@@ -100,6 +105,7 @@ One of the best ways I’ve found to create time to think and work has been bloc
 
 [Article](https://m.signalvnoise.com/compounding-time/)
 
+&nbsp;
 ## 07. Transitioning to a new role
 
 **A Career Cold Start Algorithm.**

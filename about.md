@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01c8b380-68c8-42dc-b0a7-65298a58243a/_71A3620-Edit.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01c8b380-68c8-42dc-b0a7-65298a58243a/_71A3620-Edit.jpeg)
+![Photo](/assets/images/Photo.jpeg)
 
 👋 Hi. I'm Paulo Cunha. I live in New York and work at [SeatGeek](https://seatgeek.com)
 

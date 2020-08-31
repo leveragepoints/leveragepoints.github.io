@@ -32,6 +32,7 @@ A year ago, I came across an article that introduces the concept of growth loops
 
 [Podcast](https://thisweekinstartups.com/e994-all-turtles-ceo-phil-libin-shares-his-state-machine-that-answers-all-growth-questions-future-of-early-stage-vc-w-pete-flint-nfx-rebecca-lynn-canvas-ventures-dave-samuel-freestyle-capital/)
 
+&nbsp;
 ## 02. Operating Model
 
 **Growth Guide: How to Set Up, Staff and Scale a Growth Program.**
@@ -46,6 +47,7 @@ A year ago, I came across an article that introduces the concept of growth loops
 
 [Article](https://news.greylock.com/growth-stacks-a-quantitative-look-into-the-tools-growth-teams-use-3829b22f8aa8)
 
+&nbsp;
 ## 03. Case Studies
 
 **Why Figma Wins.**

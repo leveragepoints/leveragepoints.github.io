@@ -18,6 +18,7 @@ permalink: /saas/
 
 [Article](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)
 
+&nbsp;
 ## 02. Metrics
 
 **Optimizing the SaaS Funnel from Top to Bottom.**

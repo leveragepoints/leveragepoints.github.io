@@ -14,6 +14,7 @@ permalink: /analytics/
 
 [Article](https://a16z.com/2015/09/23/16-more-metrics/)
 
+&nbsp;
 ## 02. Marketing Experimentation
 
 **Google: Estimating Ad Effectiveness using Geo Experiments in a Time-Based Regression Framework.**
@@ -62,6 +63,7 @@ permalink: /analytics/
 
 [Article](https://www.growthengblog.com/blog/2018/4/15/scaling-new-growth-opportunities-series-seo-basics)
 
+&nbsp;
 ## 03. Marketing Attribution
 
 **Attribution Model Evaluation.**
@@ -88,6 +90,7 @@ permalink: /analytics/
 
 [Article](https://poseidon01.ssrn.com/delivery.php?ID=623110115067019004064023028108122092051040069008061028095107008090009067077122030071123059021013106005121064005096068097083024105043041005072083103011121003022114096056082040091084090072092103000123101080010026066112028072029025027121079027020117001087&EXT=pdf)
 
+&nbsp;
 ## 04. Product Experimentation
 
 **A/B Testing with Fat Tails.**
@@ -104,6 +107,7 @@ permalink: /analytics/
 
 [Article](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255)
 
+&nbsp;
 ## 05. Survey-Based Consumer/Customer Research
 
 **A Practitioner’s Guide to Net Promoter Score.**
@@ -118,6 +122,7 @@ permalink: /analytics/
 
 [Book chapter](https://link.springer.com/chapter/10.1007/978-3-030-15636-7_8)
 
+&nbsp;
 ## 06. Qualitative User Research
 
 **GV’s Guide to UX Research for Startups.**
