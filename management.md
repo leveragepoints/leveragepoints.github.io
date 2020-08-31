@@ -31,7 +31,7 @@ In this lecture, Keith Rabois shares his perspective on how to be an effective
 
 [Podcast](https://hbr.org/podcast/2018/05/ask-better-questions)
 
-[https://twitter.com/claychristensen/status/231411154050748416](https://twitter.com/claychristensen/status/231411154050748416)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.</p>&mdash; Clayton Christensen (@claychristensen) <a href="https://twitter.com/claychristensen/status/231411154050748416?ref_src=twsrc%5Etfw">August 3, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Asking the right questions is one of the most impatful things you can do as a manager. In this HBR IdeaCast podcast, Leslie K. John and Alison Wood Brooks, professors at Harvard Business School, share practical advice on how to ask more and better questions.
 
