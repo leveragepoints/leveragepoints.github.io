@@ -11,7 +11,7 @@ permalink: /retention/
 [Article](https://andrewchen.co/the-adjacent-user-theory/)
 
 > When I joined Instagram in 2016, the product had over 400 million users, but the growth rate had slowed. We were growing linearly, not exponentially. [...] Over the next 3 years, the growth team and I discovered why Instagram had slowed, developed a methodology to diagnose our issues, and solved a series of problems that reignited growth and helped us get to over a billion users by the time I left.
-
+>
 > Our success was anchored on what I now call *The Adjacent User Theory*. *The Adjacent Users* are aware of a product and possibly tried using the it, but are not able to successfully become an engaged user. This is typically because the current product positioning or experience has too many barriers to adoption for them.
 
 **Hierarchy of Engagement, Expanded.**
@@ -38,9 +38,9 @@ permalink: /retention/
 [Article](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
 > Power users drive some of the most successful companies — people who love their product, are highly engaged, and contribute a ton of value to the network. In ecommerce marketplaces it’s power sellers, in ridesharing platforms it’s power riders, and in social networks it’s influencers.
-
+>
 > All companies want more power users, but you need to measure them before you can find (and retain) them. [...]
-
+>
 > Since companies need a richer and more nuanced way to understand user engagement, we’re going to introduce what we’ll call the “Power User Curve” [...].
 
 **The Loyalty Economy.**

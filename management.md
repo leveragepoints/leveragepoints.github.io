@@ -59,7 +59,7 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 [Article](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
 
 > Much of the work done at Google, and in many organizations, is done collaboratively by teams. [...]
-
+>
 > Following the success of Google’s Project Oxygen research where the People Analytics team studied what makes a great manager, Google researchers applied a similar method to discover the secrets of effective teams at Google. Code-named Project Aristotle - a tribute to Aristotle’s quote, "the whole is greater than the sum of its parts" (as the Google researchers believed employees can do more working together than alone) - the goal was to answer the question: “What makes a team effective at Google?”
 
 &nbsp;
