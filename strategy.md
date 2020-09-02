@@ -41,6 +41,11 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 ![Aggregation Theory](/assets/images/AggregationTheory.png)
 
+**Ben Thompson – Platforms, Ecosystems, and Aggregators**
+
+[Podcast](http://investorfieldguide.com/thompson/)
+
+Great conversation between Patrick OShaughnessy and Ben Thompson on platforms and aggregators. 
 
 &nbsp;
 ## 03. Identifying Levers & Problem Solving
