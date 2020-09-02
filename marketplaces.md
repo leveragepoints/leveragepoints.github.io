@@ -20,12 +20,6 @@ Sarah Tavel, a General Partner at Benchmark, published a series of articles exam
 
 The Village Global Venture Stories podcast hosted a wide-ranging discussion on marketplaces - trends, creating liquidity, key debates, and lessons learned
 
-**Ben Thompson – Platforms, Ecosystems, and Aggregators**
-
-[Podcast](http://investorfieldguide.com/thompson/)
-
-Great conversation between Patrick OShaughnessy and Ben Thompson on platforms and aggregators. 
-
 **Consumer Marketplace Investing.**
 
 [Podcast](https://fullratchet.net/225-crisis-coverage-w-sarah-tavel-consumer-marketplace-investing-why-aggregate-gmv-is-a-red-herring-and-minimum-viable-happiness-as-the-key-to-market-leadership/)
