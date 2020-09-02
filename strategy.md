@@ -6,7 +6,7 @@ permalink: /strategy/
 
 ## 01. Defining a Strategy
 
-####Good Strategy/Bad Strategy: the difference and why it matters.
+#### Good Strategy/Bad Strategy: the difference and why it matters.
 
 [Video](https://www.youtube.com/watch?v=UZrTl16hZdk), [Book](http://goodbadstrategy.com), [Excerpt](http://goodbadstrategy.com/wp-content/downloads/GoodStrategyBadStrategy_Preview.pdf) 
 
