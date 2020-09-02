@@ -14,7 +14,7 @@ This is one of the best articulations I've come across of what the process of fo
 
 > Unfortunately, good strategy is the exception, not the rule. And the problem is growing. More and more organizational leaders say they have a strategy, but they do not. Instead, they espouse what I call *bad strategy*. Bad strategy tends to skip over pesky details such as problems. It ignores the power of choice and focus, trying instead to accommodate a multitude of conflicting demands and interests. Like a quarterback whose only advice to teammates is “Let’s win,” bad strategy covers up its failure to guide by embracing the language of broad goals, ambition, vision, and values. Each of these elements is, of course, an important part of human life. But, by themselves, they are not substitutes for the hard work of strategy.
 
-**Too Many Projects.**
+#### Too Many Projects.
 
 [Article](https://hbr.org/2018/09/too-many-projects)
 
@@ -25,13 +25,13 @@ Being able to drive execution, through focus and prioritization, is a marker for
 &nbsp;
 ## 02. Frameworks
 
-**7 Powers: The Foundations of Business Strategy.**
+#### 7 Powers: The Foundations of Business Strategy.
 
 [Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](http://investorfieldguide.com/helmer/)
 
 ![7 Powers](/assets/images/7Powers.jpg)
 
-**Aggregation Theory.**
+#### Aggregation Theory.
 
 [Article](https://stratechery.com/aggregation-theory/)
 
@@ -41,7 +41,7 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 ![Aggregation Theory](/assets/images/AggregationTheory.png)
 
-**Ben Thompson – Platforms, Ecosystems, and Aggregators**
+#### Ben Thompson – Platforms, Ecosystems, and Aggregators
 
 [Podcast](http://investorfieldguide.com/thompson/)
 
@@ -50,13 +50,13 @@ Great conversation between Patrick OShaughnessy and Ben Thompson on platform
 &nbsp;
 ## 03. Identifying Levers & Problem Solving
 
-**Valuation: Measuring and Managing the Value of Companies.**
+#### Valuation: Measuring and Managing the Value of Companies.
 
 [Book](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/1119610885/), [Excerpt](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/what-is-value-based-management)
 
 The chapter on Performance Management (chapter 26, 6th edition) provides a great introduction to the concept of value driver trees. This is one of the most powerful lenses to understand, decompose and manage the performance of a system.
 
-**Leverage Points: Places to Intervene in a System.**
+#### Leverage Points: Places to Intervene in a System.
 
 [Article](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 
@@ -64,7 +64,7 @@ The chapter on Performance Management (chapter 26, 6th edition) provides a great
 >
 > Leverage points are not intuitive. Or if they are, we intuitively use them backward, systematically worsening whatever problems we are trying to solve.
 
-**Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained).**
+#### Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained).
 
 [Article](https://fs.blog/mental-models/)
 
