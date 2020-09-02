@@ -33,6 +33,7 @@ A year ago, I came across an article that introduces the concept of growth loops
 [Podcast](https://thisweekinstartups.com/e994-all-turtles-ceo-phil-libin-shares-his-state-machine-that-answers-all-growth-questions-future-of-early-stage-vc-w-pete-flint-nfx-rebecca-lynn-canvas-ventures-dave-samuel-freestyle-capital/)
 
 **Invisible Asymptotes.**
+
 [Article](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes)
 
 > Every successful business goes through the famous S-curve, and most companies, and their investors, spend a lot of time looking for that inflection point towards hockey-stick growth. But just as important, and perhaps less well studied, is that unhappy point later in the S-curve, when you hit a shoulder and experience a flattening of growth. [...]
