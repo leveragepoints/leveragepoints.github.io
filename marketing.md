@@ -106,3 +106,7 @@ Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-mark
 **theTradeDesk: Edge Academy** 
 
 [Website](https://www.thetradedesk.com/edgeacademy)
+
+**YouTube: Playbook for Creative Advertising.**
+
+[Article](https://www.thinkwithgoogle.com/features/youtube-playbook/)
