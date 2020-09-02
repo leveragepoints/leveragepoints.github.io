@@ -107,6 +107,11 @@ permalink: /analytics/
 
 [Article](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255)
 
+
+**Multi-Variate Web Optimisation Using Linear Contextual Bandits.**
+
+[Article](https://medium.com/expedia-group-tech/multi-variate-web-optimisation-using-linear-contextual-bandits-567f563cb59)
+
 &nbsp;
 ## 05. Survey-Based Consumer/Customer Research
 
