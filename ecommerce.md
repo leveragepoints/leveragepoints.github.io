@@ -6,7 +6,7 @@ permalink: /ecommerce/
 
 ## 01. Trends
 
-**The World’s Livestream Queen Can Sell Anything.**
+#### The World’s Livestream Queen Can Sell Anything.
 
 [Article](https://www.bloomberg.com/features/2020-viya-china-livestream-shopping/)
 
@@ -14,6 +14,6 @@ A fascinating glimpse into how E-commerce continues to evolve in China. Reading 
 
 > In a world where we all shop almost exclusively from our couches, Viya is one vision of our collective future. Livestream shopping is a natural confluence of several current tech trends—streaming, influencers, social, commerce—and offers companies a new path to consumers' hearts and wallets.
 
-**The Rise of Lifestyle Streamers.**
+#### The Rise of Lifestyle Streamers.
 
 [Article](https://a16z.com/2020/04/08/lifestyle-streamers/)
