@@ -91,3 +91,14 @@ Article series: [Part 1](https://netflixtechblog.com/engineering-to-improve-mark
 **How people decide what to buy lies in the ‘messy middle’ of the purchase journey.**
 
 [Article](https://www.thinkwithgoogle.com/consumer-insights/navigating-purchase-behavior-and-decision-making/)
+
+&nbsp;
+## 06. Introduction to digital ad plaforms
+
+**Google Skillshop: Catalog of free online courses and certifications.**
+
+[Website](https://skillshop.withgoogle.com/)
+
+**Facebook Blueprint: Catalog of free online courses and certifications.**
+
+[Website](https://www.facebook.com/business/learn)
