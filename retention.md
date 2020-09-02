@@ -47,6 +47,9 @@ permalink: /retention/
 
 [Article series](https://hbr.org/2020/01/the-loyalty-economy)
 
+**Summarizing Buyer Behavior in Excel.**
+[Article] (https://www.dropbox.com/s/x7b7e1kq7gk9id1/summarizing%20buyer%20behavior%20in%20excel%20clean.pptx?dl=0#)
+
 &nbsp;
 ## 03. **Data Points**
 
