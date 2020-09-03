@@ -137,6 +137,6 @@ permalink: /analytics/
 
 [Video](https://library.gv.com/user-research-quick-and-dirty-1fcfa54c91c4), [Slide deck](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf?dl=0)
 
-#### How To Do a User Interview.
+#### How To Do an User Interview.
 
 [Video](https://youtu.be/Qq3OiHQ-HCU)
