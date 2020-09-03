@@ -14,4 +14,4 @@ I've lived and worked in Porto, Lisbon, Amsterdam, Tilburg, London, Dallas, and 
 
 I love traveling and movies.
 
-Elsewhere: [LinkedIn](https://www.linkedin.com/in/paulovcunha/), [Twitter](https://www.notion.so/unevenlydistributed/About-2abcd01ca6444805b9417e16aec86a33#), [Instagram](https://www.instagram.com/paul0cunha/)
+Elsewhere: [LinkedIn](https://www.linkedin.com/in/paulovcunha/), [Twitter](https://twitter.com/paul0cunha), [Instagram](https://www.instagram.com/paul0cunha/)
