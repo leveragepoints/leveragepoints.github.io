@@ -21,9 +21,9 @@ permalink: /marketing/
 
 [Book](https://www.strategyzer.com/books/value-proposition-design), [Excerpt](https://assets.strategyzer.com/assets/resources/value-proposition-design-book-preview-2014.pdf)
 
-> The heart of Value Proposition Design is about applying Tools to the messy Search for value propositions that customers want and then keeping them aligned with what customers want in Post-search.
+> The heart of Value Proposition Design is about applying tools to the messy search for value propositions that customers want and then keeping them aligned with what customers want in post-search.
 >
-> Value Proposition Design shows you how to use the Value Proposition Canvas to Design and Test great value propositions in an iterative search for what customers want. Value proposition design is a never-ending process in which you need to Evolve your value proposition(s) constantly to keep it relevant to customers.
+> Value Proposition Design shows you how to use the Value Proposition Canvas to Ddsign and test great value propositions in an iterative search for what customers want. Value proposition design is a never-ending process in which you need to evolve your value proposition(s) constantly to keep it relevant to customers.
 
 #### The Elements of Value.
 
