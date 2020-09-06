@@ -3,7 +3,7 @@ layout: default
 title: Leverage Points
 ---
 
-## This site is a collection of resources - notes, frameworks, articles, books, videos & podcasts - that I find valuable in my work.
+## This site is a collection of resources that I find valuable in my work - notes, frameworks, articles, books, videos & podcasts.
 
 &nbsp;
 &nbsp;
