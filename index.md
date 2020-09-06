@@ -5,6 +5,8 @@ title: Leverage Points
 
 ## This site is a collection of resources - notes, frameworks, articles, books, videos & podcasts - that I find valuable in my work.
 
+&nbsp;
+&nbsp;
 ### Topics.
 
 [Management & Career](https://leveragepoints.github.io/management/) ∙ [Strategy](https://leveragepoints.github.io/strategy/) ∙ [Growth](https://leveragepoints.github.io/growth/) ∙ [Marketing](https://leveragepoints.github.io/marketing/) ∙ [User Engagement & Retention](https://leveragepoints.github.io/retention/) ∙ [Metrics, Analytics & User Research](https://leveragepoints.github.io/analytics) ∙ [Product & Design](https://leveragepoints.github.io/product/) ∙ [E-commerce](https://leveragepoints.github.io/ecommerce/) ∙ [Marketplaces](https://leveragepoints.github.io/marketplaces/) ∙ [SaaS](https://leveragepoints.github.io/saas/)
