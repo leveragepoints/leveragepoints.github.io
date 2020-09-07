@@ -7,7 +7,6 @@ permalink: /about/
 &nbsp;
 ![Photo](/assets/images/Photo.jpeg)
 
-&nbsp;
 
 👋 Hi. I'm Paulo Cunha. I live in New York and work at [SeatGeek](https://seatgeek.com)
 
