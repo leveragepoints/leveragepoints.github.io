@@ -24,6 +24,11 @@ In this lecture, Keith Rabois shares his perspective on how to be an effective
 
 [Article](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/introduction/)
 
+
+#### Average Manager vs. Great Manager: Explained in 10 sketches.
+
+[Article](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
+
 &nbsp;
 ## 02. Communication
 
@@ -76,14 +81,6 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 [Book](http://theleanstartup.com/book)
 
-#### Shape Up: Stop Running in Circles and Ship Work that Matters.
-
-[E-book](https://basecamp.com/shapeup)
-
-#### Design Leadership.
-
-[Article](http://joelcalifa.com/work/digitalocean-design-leadership/)
-
 &nbsp;
 ## 06. Productivity
 
@@ -106,7 +103,7 @@ One of the best ways I’ve found to create time to think and work has been bloc
 [Article](https://m.signalvnoise.com/compounding-time/)
 
 &nbsp;
-## 07. Transitioning to a new role
+## 07. Career
 
 #### A Career Cold Start Algorithm.
 
@@ -117,3 +114,7 @@ One of the best ways I’ve found to create time to think and work has been bloc
 #### New managers, here’s how to run your first team meeting.
 
 [Article](https://knowyourteam.com/blog/2018/10/12/new-managers-heres-how-to-run-your-first-team-meeting/)
+
+#### Managing Yourself: How to Calibrate Your Own Strengths and Weaknesses.
+
+[Article](https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f)

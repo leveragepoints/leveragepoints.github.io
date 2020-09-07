@@ -4,7 +4,17 @@ title: Metrics, Analytics & User Research
 permalink: /analytics/
 ---
 
-## 01. Metrics
+## 01. Operating Model
+
+#### Making Data Science Work.
+[Article](https://medium.com/sequoia-capital/making-data-science-work-db71fb9e1da1)
+
+&nbsp;
+## 02. Metrics
+
+#### How do you set metrics?.
+
+[Article](https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44)
 
 #### 16 Startup Metrics.
 
@@ -14,8 +24,12 @@ permalink: /analytics/
 
 [Article](https://a16z.com/2015/09/23/16-more-metrics/)
 
+#### Y Combinator: Key Metrics
+
+[Article](https://www.ycombinator.com/library/1y-key-metrics)
+
 &nbsp;
-## 02. Marketing Experimentation
+## 03. Marketing Experimentation
 
 #### Google: Estimating Ad Effectiveness using Geo Experiments in a Time-Based Regression Framework.
 
@@ -64,7 +78,7 @@ permalink: /analytics/
 [Article](https://www.growthengblog.com/blog/2018/4/15/scaling-new-growth-opportunities-series-seo-basics)
 
 &nbsp;
-## 03. Marketing Attribution
+## 04. Marketing Attribution
 
 #### Attribution Model Evaluation.
 
@@ -91,7 +105,7 @@ permalink: /analytics/
 [Article](https://poseidon01.ssrn.com/delivery.php?ID=623110115067019004064023028108122092051040069008061028095107008090009067077122030071123059021013106005121064005096068097083024105043041005072083103011121003022114096056082040091084090072092103000123101080010026066112028072029025027121079027020117001087&EXT=pdf)
 
 &nbsp;
-## 04. Product Experimentation
+## 05. Product Experimentation
 
 #### A/B Testing with Fat Tails.
 
@@ -112,7 +126,7 @@ permalink: /analytics/
 [Article](https://medium.com/expedia-group-tech/multi-variate-web-optimisation-using-linear-contextual-bandits-567f563cb59)
 
 &nbsp;
-## 05. Survey-Based Consumer/Customer Research
+## 06. Survey-Based Consumer/Customer Research
 
 #### A Practitioner’s Guide to Net Promoter Score.
 
@@ -127,7 +141,7 @@ permalink: /analytics/
 [Book chapter](https://link.springer.com/chapter/10.1007/978-3-030-15636-7_8)
 
 &nbsp;
-## 06. Qualitative User Research
+## 07. Qualitative User Research
 
 #### GV’s Guide to UX Research for Startups.
 
@@ -140,3 +154,7 @@ permalink: /analytics/
 #### How To Do an User Interview.
 
 [Video](https://youtu.be/Qq3OiHQ-HCU)
+
+#### How to Run a Journey-Mapping Workshop: A Step-by-Step Case Study
+
+[Article](https://www.nngroup.com/articles/journey-mapping-workshop/)

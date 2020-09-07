@@ -47,6 +47,12 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 Great conversation between Patrick OShaughnessy and Ben Thompson on platforms and aggregators. 
 
+#### Strategy Letter V
+
+[Article](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+
+> [...] Demand for a product increases when the price of its complements decreases. In general, a company’s strategic interest is going to be to get the price of their complements as low as possible. The lowest theoretically sustainable price would be the “commodity price” — the price that arises when you have a bunch of competitors offering indistinguishable goods. So: Smart companies try to commoditize their products’ complements
+
 &nbsp;
 ## 03. Identifying Levers & Problem Solving
 
@@ -71,3 +77,9 @@ The chapter on Performance Management (chapter 26, 6th edition) provides a great
 > Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason. [...]
 >
 > The quality of our thinking is proportional to the models in our head and their usefulness in the situation at hand. The more models you have—the bigger your toolbox—the more likely you are to have the right models to see reality. It turns out that when it comes to improving your ability to make decisions variety matters.
+
+#### Eigenquestions: The Art of Framing Problems.
+
+> When Coda was founded, we found ourselves faced with a number of tricky choices. From years of working together previously at YouTube, Matt Hudson (our founding PM) and I had developed a bit of a shorthand for how to "frame" problems. Over the years, we've refined and formalized the techniques, and we teach these skills as part of onboarding new employees at Coda. This document is a handbook of these techniques.
+
+[Article](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)

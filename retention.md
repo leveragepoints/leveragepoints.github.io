@@ -22,6 +22,11 @@ permalink: /retention/
 
 [Book](https://wsp.wharton.upenn.edu/book/customer-centricity-playbook/), [Excerpt](https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2019/01/Customer-Centricity-Playbook-Excerpt-2019.pdf), [Video](https://youtu.be/0iLQCNYdNb4)
 
+#### Retention.
+
+[Article](https://medium.com/sequoia-capital/retention-7dbc7aa9e988)
+
+
 &nbsp;
 ## 02. Metrics
 
@@ -42,6 +47,10 @@ permalink: /retention/
 > All companies want more power users, but you need to measure them before you can find (and retain) them. [...]
 >
 > Since companies need a richer and more nuanced way to understand user engagement, we’re going to introduce what we’ll call the “Power User Curve” [...].
+
+####Engagement Drives Stickiness Drives Retention Drives Growth.
+
+[Article](https://medium.com/sequoia-capital/engagement-drives-stickiness-drives-retention-drives-growth-3a6ac53a7a00)
 
 #### The Loyalty Economy.
 

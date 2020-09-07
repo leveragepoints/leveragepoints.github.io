@@ -54,6 +54,12 @@ The Village Global Venture Stories podcast hosted a wide-ranging discussion on m
 
 [Article](https://caseyaccidental.com/low-frequency-marketplaces/)
 
+#### A Rake Too Far: Optimal Platform Pricing Strategy
+
+[Article](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)
+
+> High volume combined with a modest rake is the perfect formula for a true organic marketplace and a sustainable competitive advantage. A sustainable platform or marketplace is one where the value of being in the network clearly outshines the transactional costs charged for being in the network. This way, suppliers will feel obliged to stay on the platform, and consumers will not see prices that are overly burdened by the network provider. Everyone wins in this scenario, but particularly the platform provider. A high rake will allow you to achieve larger revenues faster, but it will eventually represent a strategic red flag – a pricing umbrella that can be exploited by others in the ecosystem, perhaps by someone with a more disruptive business model. As Jeff Bezos is fond of saying, “your margin is my opportunity.”
+
 &nbsp;
 ## 04. Metrics
 
@@ -77,8 +83,20 @@ The Village Global Venture Stories podcast hosted a wide-ranging discussion on m
 
 [Article](https://techcrunch.com/2017/07/11/marketplace-liquidity/)
 
+#### Two-Sided Marketplaces and Engagement.
+
+[Article](https://medium.com/sequoia-capital/two-sided-marketplaces-and-engagement-ded7d5dcfe71)
+
 &nbsp;
+
 ## 05. Data Points
+
+#### Apple’s App Store and Other Digital Marketplaces: A Comparison of Commission Rates.
+
+[Report](https://www.analysisgroup.com/globalassets/insights/publishing/apples_app_store_and_other_digital_marketplaces_a_comparison_of_commission_rates.pdf)
+
+This report provides a comprehensive overview of take rates across a wide range of digital and e-commerce marketplaces, including: App stores, Video game digital marketplaces, Digital content platforms, E-commerce marketplace, and Brick-and-mortar production, distribution, and marketplaces.
+
 
 #### The a16z Marketplace 100.
 

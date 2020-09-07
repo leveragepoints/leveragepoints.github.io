@@ -38,7 +38,12 @@ A year ago, I came across an article that introduces the concept of growth loops
 
 > Every successful business goes through the famous S-curve, and most companies, and their investors, spend a lot of time looking for that inflection point towards hockey-stick growth. But just as important, and perhaps less well studied, is that unhappy point later in the S-curve, when you hit a shoulder and experience a flattening of growth. [...]
 >
-> For so many startups and even larger tech incumbents, the point at which they hit the shoulder in the S-curve is a mystery, and I suspect the failure to see it occurs much earlier. The good thing is that identifying the enemy sooner allows you to address it. 
+> For so many startups and even larger tech incumbents, the point at which they hit the shoulder in the S-curve is a mystery, and I suspect the failure to see it occurs much earlier. The good thing is that identifying the enemy sooner allows you to address it.
+
+#### Sustainable Product Growth.
+
+[Article](https://medium.com/sequoia-capital/sustainable-product-growth-541fa786df01)
+
 
 &nbsp;
 ## 02. Operating Model
@@ -56,7 +61,14 @@ A year ago, I came across an article that introduces the concept of growth loops
 [Article](https://news.greylock.com/growth-stacks-a-quantitative-look-into-the-tools-growth-teams-use-3829b22f8aa8)
 
 &nbsp;
-## 03. Case Studies
+## 03. Metrics
+
+#### Measuring Product Health
+
+[Article](https://medium.com/sequoia-capital/measuring-product-health-626b2186cece)
+
+&nbsp;
+## 04. Case Studies
 
 #### Why Figma Wins.
 
