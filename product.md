@@ -6,14 +6,6 @@ permalink: /product/
 
 ## 01. Product Strategy
 
-#### Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.
-
-[Book](https://www.thesprintbook.com)
-
-#### The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback.
-
-[Book](https://leanproductplaybook.com)
-
 #### A Minimum Viable Product Is Not a Product, It’s a Process.
 
 [Article](https://blog.ycombinator.com/minimum-viable-product-process/)
@@ -35,6 +27,14 @@ permalink: /product/
 
 &nbsp;
 ## 02. Process & Operating Model
+
+#### Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.
+
+[Book](https://www.thesprintbook.com)
+
+#### The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback.
+
+[Book](https://leanproductplaybook.com)
 
 #### Shape Up: Stop Running in Circles and Ship Work that Matters.
 
