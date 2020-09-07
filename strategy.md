@@ -80,6 +80,6 @@ The chapter on Performance Management (chapter 26, 6th edition) provides a great
 
 #### Eigenquestions: The Art of Framing Problems.
 
-> When Coda was founded, we found ourselves faced with a number of tricky choices. From years of working together previously at YouTube, Matt Hudson (our founding PM) and I had developed a bit of a shorthand for how to "frame" problems. Over the years, we've refined and formalized the techniques, and we teach these skills as part of onboarding new employees at Coda. This document is a handbook of these techniques.
-
 [Article](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+
+> When Coda was founded, we found ourselves faced with a number of tricky choices. From years of working together previously at YouTube, Matt Hudson (our founding PM) and I had developed a bit of a shorthand for how to "frame" problems. Over the years, we've refined and formalized the techniques, and we teach these skills as part of onboarding new employees at Coda. This document is a handbook of these techniques.
