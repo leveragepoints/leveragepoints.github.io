@@ -103,3 +103,11 @@ This report provides a comprehensive overview of take rates across a wide range 
 [Article](https://a16z.com/2020/02/18/marketplace-100/)
 
 Ranking of the largest and fastest-growing consumer-facing marketplace startups and private companies.
+
+&nbsp;
+
+## 06. Case Studies
+
+#### Food Delivery Wars: 3 Takeaways From The UberEats, Postmates, Grubhub, DoorDash Ecosystem — How It Boomed, And Why It’s At A Crossroads.
+
+[Article](https://medium.com/@sarahtavel/food-delivery-wars-3-takeaways-from-the-ubereats-postmates-grubhub-doordash-ecosystem-how-it-bda13a059430)
