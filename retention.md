@@ -48,7 +48,7 @@ permalink: /retention/
 >
 > Since companies need a richer and more nuanced way to understand user engagement, we’re going to introduce what we’ll call the “Power User Curve” [...].
 
-####Engagement Drives Stickiness Drives Retention Drives Growth.
+#### Engagement Drives Stickiness Drives Retention Drives Growth.
 
 [Article](https://medium.com/sequoia-capital/engagement-drives-stickiness-drives-retention-drives-growth-3a6ac53a7a00)
 
