@@ -3,7 +3,7 @@ layout: default
 title: Leverage Points
 ---
 
-## This site is a collection of resources that I find valuable in my work - frameworks, mental models, how-to guides, tools, methodologies, data points, and case studies.
+## This site is a collection of resources that I find helpful - frameworks, mental models, how-to guides, tools, methodologies, data points, and case studies.
 
 &nbsp;
 &nbsp;
