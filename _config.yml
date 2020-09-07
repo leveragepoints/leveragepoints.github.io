@@ -29,7 +29,7 @@ sass:
 
 
 pages_list:       
-  About Me: '/about'
+  About: '/about'
   Newsletter: 'https://leveragepoints.substack.com/'
 
 # Options
