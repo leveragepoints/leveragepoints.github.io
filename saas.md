@@ -24,3 +24,15 @@ permalink: /saas/
 #### Optimizing the SaaS Funnel from Top to Bottom.
 
 [Article](https://www.forentrepreneurs.com/optimizing-the-saas-funnel/)
+
+
+#### How we calculate SaaS Metrics at Public Comps.
+
+[Article](https://www.notion.so/How-we-calculate-SaaS-Metrics-at-Public-Comps-cd4a389983a34725be732088765e059e)
+
+&nbsp;
+## 03. Data Points
+
+#### Publiccomps Dashboard
+
+[Dashboard](https://www.publiccomps.com/tickers?items=High+Growth+SaaS)
