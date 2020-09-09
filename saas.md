@@ -33,6 +33,6 @@ permalink: /saas/
 &nbsp;
 ## 03. Data Points
 
-#### Publiccomps Dashboard
+#### Public Comps SaaS Dashboard
 
 [Dashboard](https://www.publiccomps.com/tickers?items=High+Growth+SaaS)
