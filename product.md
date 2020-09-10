@@ -25,6 +25,11 @@ permalink: /product/
 
 [Article](https://www.sachinrekhi.com/the-hierarchy-of-user-friction)
 
+#### What is Jobs to be Done (JTBD)?
+
+[Article](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca), [Book](https://www.dropbox.com/s/je0ax86qitprdi9/WCAKC.pdf?dl=0)
+
+
 &nbsp;
 ## 02. Process & Operating Model
 
@@ -61,6 +66,12 @@ permalink: /product/
 
 [Article](https://medium.com/the-year-of-the-looking-glass/design-for-people-use-people-language-41efcf5203b1)
 
+
+#### A Three-Step Framework For Solving Problems.
+
+[Article](https://uxdesign.cc/how-to-solve-problems-6bf14222e424), [Template](https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit) 
+
+
 &nbsp;
 ## 03. Design
 
@@ -84,3 +95,11 @@ permalink: /product/
 #### Frameworks for Product Success.
 
 [Article](https://medium.com/sequoia-capital/frameworks-for-product-success-aff3f29c2c57)
+
+
+&nbsp;
+## 05. Case Studies
+
+#### What is Amazon's approach to product development and product management?
+
+[Article](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management/answer/Ian-McAllister)

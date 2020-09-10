@@ -14,7 +14,7 @@ In this book, Andy Grove deconstructs the work of management into first principl
 
 #### How to Operate.
 
-[Video + transcript](http://startupclass.samaltman.com)
+[Video + transcript](https://startupclass.samaltman.com/courses/lec14/)
 
 In this lecture, Keith Rabois shares his perspective on how to be an effective manager.
 
@@ -82,7 +82,14 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 [Book](http://theleanstartup.com/book)
 
 &nbsp;
-## 06. Productivity
+## 06. Building Culture
+
+#### Alfred Lin and Brian Chesky: Culture
+
+[Video + transcript](https://startupclass.samaltman.com/courses/lec10/)
+
+&nbsp;
+## 07. Productivity
 
 #### Maker’s Schedule, Manager’s Schedule.
 
@@ -103,7 +110,7 @@ One of the best ways I’ve found to create time to think and work has been bloc
 [Article](https://m.signalvnoise.com/compounding-time/)
 
 &nbsp;
-## 07. Career
+## 08. Career
 
 #### A Career Cold Start Algorithm.
 
