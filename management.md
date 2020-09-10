@@ -125,3 +125,10 @@ One of the best ways I’ve found to create time to think and work has been bloc
 #### Managing Yourself: How to Calibrate Your Own Strengths and Weaknesses.
 
 [Article](https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f)
+
+
+&nbsp;
+## 09. Case Studies
+
+#### How Netflix Reinvented HR.
+[Article](https://hbr.org/2014/01/how-netflix-reinvented-hr), [Slide deck](https://www.slideshare.net/nolensan/netflixorganizationalculture-131001173045phpapp02)
