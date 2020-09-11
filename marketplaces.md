@@ -93,7 +93,7 @@ The Village Global Venture Stories podcast hosted a wide-ranging discussion on m
 
 #### Apple’s App Store and Other Digital Marketplaces: A Comparison of Commission Rates.
 
-[Report](https://www.analysisgroup.com/globalassets/insights/publishing/apples_app_store_and_other_digital_marketplaces_a_comparison_of_commission_rates.pdf)
+[Report](https://www.analysisgroup.com/globalassets/insights/publishing/apples_app_store_and_other_digital_marketplaces_a_comparison_of_commission_rates.pdf), [Airtable](https://airtable.com/shrwZcpVuOkHyIUiK)
 
 This report provides a comprehensive overview of take rates across a wide range of digital and e-commerce marketplaces, including: App stores, Video game digital marketplaces, Digital content platforms, E-commerce marketplace, and Brick-and-mortar production, distribution, and marketplaces.
 

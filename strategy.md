@@ -8,7 +8,7 @@ permalink: /strategy/
 
 #### Good Strategy/Bad Strategy: the difference and why it matters.
 
-[Video](https://www.youtube.com/watch?v=UZrTl16hZdk), [Book](http://goodbadstrategy.com), [Excerpt](http://goodbadstrategy.com/wp-content/downloads/GoodStrategyBadStrategy_Preview.pdf) 
+[Video](https://www.youtube.com/watch?v=UZrTl16hZdk), [Article](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy), [Book](http://goodbadstrategy.com), [Excerpt](http://goodbadstrategy.com/wp-content/downloads/GoodStrategyBadStrategy_Preview.pdf) 
 
 This is one of the best articulations I've come across of what the process of formulating a strategy should look like.
 
