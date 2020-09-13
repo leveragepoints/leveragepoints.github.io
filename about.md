@@ -10,6 +10,4 @@ Prior to joining SeatGeek, I worked at [Expedia Group](https://www.expediagroup
 
 I've lived and worked in Porto, Lisbon, Amsterdam, Tilburg, London, Dallas, and Houston.
 
-I love traveling and movies.
-
 Elsewhere: [LinkedIn](https://www.linkedin.com/in/paulovcunha/), [Twitter](https://twitter.com/paul0cunha), [Instagram](https://www.instagram.com/paul0cunha/)
