@@ -16,7 +16,7 @@ This is one of the best articulations I've come across of what the process of fo
 
 #### Too Many Projects.
 
-[Article](https://hbr.org/2018/09/too-many-projects)
+[Article](https://hbr.org/2018/09/too-many-projects){:target="_blank"}
 
 Being able to drive execution, through focus and prioritization, is a marker for effective leadership. In this article, Rose Hollister and Michael D. Watkins share a step-by-step process to manage initiative overload. 
 
