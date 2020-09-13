@@ -8,13 +8,13 @@ permalink: /management/
 
 #### High Output Management.
 
-[Book](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
+[Book](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/){:target="_blank"}
 
 In this book, Andy Grove deconstructs the work of management into first principles. This is my favorite management book - actionable and packed with insights
 
 #### How to Operate.
 
-[Video + transcript](https://startupclass.samaltman.com/courses/lec14/)
+[Video + transcript](https://startupclass.samaltman.com/courses/lec14/){:target="_blank"}
 
 In this lecture, Keith Rabois shares his perspective on how to be an effective manager.
 
@@ -22,19 +22,19 @@ In this lecture, Keith Rabois shares his perspective on how to be an effective
 
 #### Guide: Identify what makes a great manager.
 
-[Article](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/introduction/)
+[Article](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/introduction/){:target="_blank"}
 
 
 #### Average Manager vs. Great Manager: Explained in 10 sketches.
 
-[Article](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
+[Article](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d){:target="_blank"}
 
 &nbsp;
 ## 02. Communication
 
 #### Ask Better Questions.
 
-[Podcast](https://hbr.org/podcast/2018/05/ask-better-questions)
+[Podcast](https://hbr.org/podcast/2018/05/ask-better-questions){:target="_blank"}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go.</p>&mdash; Clayton Christensen (@claychristensen) <a href="https://twitter.com/claychristensen/status/231411154050748416?ref_src=twsrc%5Etfw">August 3, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -42,7 +42,7 @@ Asking the right questions is one of the most impatful things you can do as a ma
 
 #### Listening is The Job.
 
-[Article](https://boz.com/articles/listening-is-the-job)
+[Article](https://boz.com/articles/listening-is-the-job){:target="_blank"}
 
 Managing your attention and information flow is a high leverage point to improve your effectiveness as a manager. Andrew ‘Boz’ Bosworth, Head of AR/VR at Facebook, shares eight practices for improving how to acquire information.
 
@@ -50,9 +50,9 @@ Managing your attention and information flow is a high leverage point to improve
 
 #### Balancing Advocacy and Inquiry.
 
-[Book chapter](https://canvas.uw.edu/courses/919517/files/28649119/download?wrap=1)
+[Book chapter](https://canvas.uw.edu/courses/919517/files/28649119/download?wrap=1){:target="_blank"}
 
-This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhouse.com/books/163985/the-fifth-discipline-fieldbook-by-peter-m-senge/) provides valuable frameworks and conversational recipes for testing your beliefs through reflection and dialogue.
+This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhouse.com/books/163985/the-fifth-discipline-fieldbook-by-peter-m-senge/){:target="_blank"} provides valuable frameworks and conversational recipes for testing your beliefs through reflection and dialogue.
 
 > Managers in Western corporations have received a lifetime of training in being forceful, articulate "advocates" and "problem solvers." They know how to present and argue strongly for their views. But as people rise in the organization, they are forced to deal with more complex and interdependent issues where no one individual "knows the answer, and where the only viable option is for groups of informed and committed individuals to think together to arrive at new insights. At this point, they need to learn to skillfully balance advocacy with inquiry
 
@@ -61,7 +61,7 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 #### Google Guide: Understand Team Effectiveness.
 
-[Article](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
+[Article](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/){:target="_blank"}
 
 > Much of the work done at Google, and in many organizations, is done collaboratively by teams. [...]
 >
@@ -72,28 +72,28 @@ This extract from [The Fifth Discipline Fieldbook](https://www.penguinrandomhou
 
 #### “A Players” or “A Positions”?: The Strategic Logic of Workforce Management.
 
-[Article](https://hbr.org/2005/12/a-players-or-a-positions-the-strategic-logic-of-workforce-management)
+[Article](https://hbr.org/2005/12/a-players-or-a-positions-the-strategic-logic-of-workforce-management){:target="_blank"}
 
 &nbsp;
 ## 05. Driving Execution
 
 #### The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses.
 
-[Book](http://theleanstartup.com/book)
+[Book](http://theleanstartup.com/book){:target="_blank"}
 
 &nbsp;
 ## 06. Building Culture
 
 #### Alfred Lin and Brian Chesky: Culture
 
-[Video + transcript](https://startupclass.samaltman.com/courses/lec10/)
+[Video + transcript](https://startupclass.samaltman.com/courses/lec10/){:target="_blank"}
 
 &nbsp;
 ## 07. Productivity
 
 #### Maker’s Schedule, Manager’s Schedule.
 
-[Article](http://www.paulgraham.com/makersschedule.html)
+[Article](http://www.paulgraham.com/makersschedule.html){:target="_blank"}
 
 How you manage your time impacts your effectiveness and the effectiveness of everyone else around you. This essay by Paul Graham highlights the importance of being intentional about how you structure your schedule and your team’s operating rhythm to create both time to manage and time to make.
 
@@ -101,34 +101,34 @@ How you manage your time impacts your effectiveness and the effectiveness of eve
 
 #### No meeting Wednesdays.
 
-[Article](https://blog.asana.com/2013/02/no-meeting-wednesdays/)
+[Article](https://blog.asana.com/2013/02/no-meeting-wednesdays/){:target="_blank"}
 
 One of the best ways I’ve found to create time to think and work has been blocking one day per week without meetings. This practice was inspired by Dustin Moskovitz’s ‘No Meeting Wednesdays’ post. I’ve started doing this a few years ago and typically manage to block at least half a day per week for uninterrupted work.
 
 #### Compounding time.
 
-[Article](https://m.signalvnoise.com/compounding-time/)
+[Article](https://m.signalvnoise.com/compounding-time/){:target="_blank"}
 
 &nbsp;
 ## 08. Career
 
 #### A Career Cold Start Algorithm.
 
-[Article](https://boz.com/articles/career-cold-start)
+[Article](https://boz.com/articles/career-cold-start){:target="_blank"}
 
 > Several times in my career, I’ve joined a team whose work was already well under way, where I had a massive knowledge deficit, and didn’t have pre-existing relationships. None of those excuses relieved me from the pressure I felt to establish myself and contribute. Over time, I realized that the natural instinct to push for early impact leads many incoming leaders into challenging relationships as they expose their knowledge deficit and waste time. So, I developed an algorithm that has helped me ramp up quickly — and in several cases — have an impact in a relatively short period of time, while minimizing collateral damage.
 
 #### New managers, here’s how to run your first team meeting.
 
-[Article](https://knowyourteam.com/blog/2018/10/12/new-managers-heres-how-to-run-your-first-team-meeting/)
+[Article](https://knowyourteam.com/blog/2018/10/12/new-managers-heres-how-to-run-your-first-team-meeting/){:target="_blank"}
 
 #### Managing Yourself: How to Calibrate Your Own Strengths and Weaknesses.
 
-[Article](https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f)
+[Article](https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f){:target="_blank"}
 
 
 &nbsp;
 ## 09. Case Studies
 
 #### How Netflix Reinvented HR.
-[Article](https://hbr.org/2014/01/how-netflix-reinvented-hr), [Slide deck](https://www.slideshare.net/nolensan/netflixorganizationalculture-131001173045phpapp02)
+[Article](https://hbr.org/2014/01/how-netflix-reinvented-hr){:target="_blank"}, [Slide deck](https://www.slideshare.net/nolensan/netflixorganizationalculture-131001173045phpapp02){:target="_blank"}

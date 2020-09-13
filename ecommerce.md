@@ -8,7 +8,7 @@ permalink: /ecommerce/
 
 #### The World’s Livestream Queen Can Sell Anything.
 
-[Article](https://www.bloomberg.com/features/2020-viya-china-livestream-shopping/)
+[Article](https://www.bloomberg.com/features/2020-viya-china-livestream-shopping/){:target="_blank"}
 
 A fascinating glimpse into how E-commerce continues to evolve in China. Reading this type of article always reminds me of a quote attributed to William Gibson: *“…the future is already here — it’s just not very evenly distributed.”*
 
@@ -16,11 +16,11 @@ A fascinating glimpse into how E-commerce continues to evolve in China. Reading 
 
 #### The Rise of Lifestyle Streamers.
 
-[Article](https://a16z.com/2020/04/08/lifestyle-streamers/)
+[Article](https://a16z.com/2020/04/08/lifestyle-streamers/){:target="_blank"}
 
 #### Katrina Lake – The Next Wave of E-Commerce.
 
-[Podcast](http://investorfieldguide.com/katrina-lake-the-next-wave-of-e-commerce-invest-like-the-best-ep-187/)
+[Podcast](http://investorfieldguide.com/katrina-lake-the-next-wave-of-e-commerce-invest-like-the-best-ep-187/){:target="_blank"}
 
 In this interview Katrina Lake, CEO of Stitch Fix, provides a compelling vision for what the next iteration of e-commerce could look like.
 

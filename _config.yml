@@ -30,7 +30,7 @@ sass:
 
 pages_list:       
   About: '/about'
-  Newsletter: 'https://leveragepoints.substack.com/'
+  Newsletter: 'https://leveragepoints.substack.com/'{:target="_blank"}
 
 # Options
 

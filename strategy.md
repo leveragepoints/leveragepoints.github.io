@@ -8,7 +8,7 @@ permalink: /strategy/
 
 #### Good Strategy/Bad Strategy: the difference and why it matters.
 
-[Video](https://www.youtube.com/watch?v=UZrTl16hZdk), [Article](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy), [Book](http://goodbadstrategy.com), [Excerpt](http://goodbadstrategy.com/wp-content/downloads/GoodStrategyBadStrategy_Preview.pdf) 
+[Video](https://www.youtube.com/watch?v=UZrTl16hZdk){:target="_blank"}, [Article](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy){:target="_blank"}, [Book](http://goodbadstrategy.com){:target="_blank"}, [Excerpt](http://goodbadstrategy.com/wp-content/downloads/GoodStrategyBadStrategy_Preview.pdf){:target="_blank"}
 
 This is one of the best articulations I've come across of what the process of formulating a strategy should look like.
 
@@ -16,7 +16,7 @@ This is one of the best articulations I've come across of what the process of fo
 
 #### Too Many Projects.
 
-[Article](https://hbr.org/2018/09/too-many-projects){:target="_blank"}
+[Article](https://hbr.org/2018/09/too-many-projects){:target="_blank"}	
 
 Being able to drive execution, through focus and prioritization, is a marker for effective leadership. In this article, Rose Hollister and Michael D. Watkins share a step-by-step process to manage initiative overload. 
 
@@ -27,29 +27,29 @@ Being able to drive execution, through focus and prioritization, is a marker for
 
 #### 7 Powers: The Foundations of Business Strategy.
 
-[Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319), [Podcast](http://investorfieldguide.com/helmer/)
+[Book](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319){:target="_blank"}, [Podcast](http://investorfieldguide.com/helmer/){:target="_blank"}
 
 ![7 Powers](/assets/images/7Powers.jpg)
 
 #### Aggregation Theory.
 
-[Article](https://stratechery.com/aggregation-theory/)
+[Article](https://stratechery.com/aggregation-theory/){:target="_blank"}
 
 > The fundamental disruption of the Internet has been to turn this dynamic on its head. First, the Internet has made distribution (of digital goods) free, neutralizing the advantage that pre-Internet distributors leveraged to integrate with suppliers. Secondly, the Internet has made transaction costs zero, making it viable for a distributor to integrate forward with end users/consumers at scale.
 >
 > This has fundamentally changed the plane of competition: no longer do distributors compete based upon exclusive supplier relationships, with consumers/users an afterthought. Instead, suppliers can be commoditized leaving consumers/users as a first order priority. By extension, this means that the most important factor determining success is the user experience: the best distributors/aggregators/market-makers win by providing the best experience, which earns them the most consumers/users, which attracts the most suppliers, which enhances the user experience in a virtuous cycle.
 
-![Aggregation Theory](/assets/images/AggregationTheory.png)
+![Aggregation Theory](/assets/images/AggregationTheory.png){:target="_blank"}
 
 #### Ben Thompson – Platforms, Ecosystems, and Aggregators
 
-[Podcast](http://investorfieldguide.com/thompson/)
+[Podcast](http://investorfieldguide.com/thompson/){:target="_blank"}
 
 Great conversation between Patrick OShaughnessy and Ben Thompson on platforms and aggregators. 
 
 #### Strategy Letter V
 
-[Article](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+[Article](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/){:target="_blank"}
 
 > [...] Demand for a product increases when the price of its complements decreases. In general, a company’s strategic interest is going to be to get the price of their complements as low as possible. The lowest theoretically sustainable price would be the “commodity price” — the price that arises when you have a bunch of competitors offering indistinguishable goods. So: Smart companies try to commoditize their products’ complements
 
@@ -58,13 +58,13 @@ Great conversation between Patrick OShaughnessy and Ben Thompson on platform
 
 #### Valuation: Measuring and Managing the Value of Companies.
 
-[Book](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/1119610885/), [Excerpt](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/what-is-value-based-management)
+[Book](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/1119610885/){:target="_blank"}, [Excerpt](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/what-is-value-based-management){:target="_blank"}
 
 The chapter on Performance Management (chapter 26, 6th edition) provides a great introduction to the concept of value driver trees. This is one of the most powerful lenses to understand, decompose and manage the performance of a system.
 
 #### Leverage Points: Places to Intervene in a System.
 
-[Article](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+[Article](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){:target="_blank"}
 
 > Folks who do systems analysis have a great belief in “leverage points.” These are places within a complex system (a corporation, an economy, a living body, a city, an ecosystem) where a small shift in one thing can produce big changes in everything. […]
 >
@@ -72,7 +72,7 @@ The chapter on Performance Management (chapter 26, 6th edition) provides a great
 
 #### Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained).
 
-[Article](https://fs.blog/mental-models/)
+[Article](https://fs.blog/mental-models/){:target="_blank"}
 
 > Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason. [...]
 >
@@ -80,6 +80,6 @@ The chapter on Performance Management (chapter 26, 6th edition) provides a great
 
 #### Eigenquestions: The Art of Framing Problems.
 
-[Article](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+[Article](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems){:target="_blank"}
 
 > When Coda was founded, we found ourselves faced with a number of tricky choices. From years of working together previously at YouTube, Matt Hudson (our founding PM) and I had developed a bit of a shorthand for how to "frame" problems. Over the years, we've refined and formalized the techniques, and we teach these skills as part of onboarding new employees at Coda. This document is a handbook of these techniques.
