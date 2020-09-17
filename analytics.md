@@ -104,6 +104,11 @@ permalink: /analytics/
 
 [Article](https://poseidon01.ssrn.com/delivery.php?ID=623110115067019004064023028108122092051040069008061028095107008090009067077122030071123059021013106005121064005096068097083024105043041005072083103011121003022114096056082040091084090072092103000123101080010026066112028072029025027121079027020117001087&EXT=pdf){:target="_blank"}
 
+
+#### Challenges And Opportunities In Media Mix Modeling.
+
+[Article](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45998.pdf){:target="_blank"}
+
 &nbsp;
 ## 05. Product Experimentation
 
@@ -117,7 +122,7 @@ permalink: /analytics/
 
 [Article](https://medium.com/airbnb-engineering/selection-bias-in-online-experimentation-c3d67795cceb){:target="_blank"}
 
-####Booking.com: Increasing the Sensitivity of Experiments with Rank Transformation.
+#### Booking.com: Increasing the Sensitivity of Experiments with Rank Transformation.
 
 [Article](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255){:target="_blank"}
 
