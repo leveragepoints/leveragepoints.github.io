@@ -70,3 +70,8 @@ permalink: /retention/
 Casey Winters and Lenny Rachitsky published user retention and revenue retention benchmarks for consumer and SaaS businesses. 
 
 ![Retention benchmarks](/assets/images/RetentionBenchmarks.png){:target="_blank"}
+
+
+#### XM Institute NPS Benchmarks
+
+[Article](https://www.qualtrics.com/marketplace/nps-benchmarks/)
